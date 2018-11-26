@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  OS_handle.cpp
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(155): warning C4838: преобразование из "int" в "CHAR" требует сужающего преобразования
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(155): warning C4309: инициализация: усечение константного значения
+  OS_handle.vcxproj -> C:\Users\Kernel\source\repos\conPaint\Debug\OS_handle.exe
