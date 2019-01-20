@@ -1,5 +1,8 @@
-﻿  stdafx.cpp
-  OS_handle.cpp
-c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(155): warning C4838: преобразование из "int" в "CHAR" требует сужающего преобразования
-c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(155): warning C4309: инициализация: усечение константного значения
+﻿  OS_handle.cpp
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(257): warning C4838: преобразование из "int" в "CHAR" требует сужающего преобразования
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(257): warning C4309: инициализация: усечение константного значения
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(316): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(318): warning C4267: +=: преобразование из "size_t" в "SHORT"; возможна потеря данных
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(354): warning C4244: =: преобразование "WCHAR" в "CHAR", возможна потеря данных
+c:\users\kernel\source\repos\conpaint\os_handle\os_handle.cpp(125): warning C4715: clearWorkSpace: значение возвращается не при всех путях выполнения
   OS_handle.vcxproj -> C:\Users\Kernel\source\repos\conPaint\Debug\OS_handle.exe
